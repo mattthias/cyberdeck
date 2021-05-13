@@ -8,3 +8,12 @@ After reading about another crazy `cyberdeck build on Hackaday <https://hackaday
 A Triumph Adler Gabriele 8008L
 
 .. image:: images/thumb_gabriele_8008l.jpg
+
+
+
+Links
+=====
+
+* https://deskthority.net/viewtopic.php?f=63&t=6648
+* https://geekhack.org/index.php?topic=49641
+* https://github.com/koron/matrixscan
